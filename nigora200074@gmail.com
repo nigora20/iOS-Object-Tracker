@@ -12,4 +12,4 @@ workflows:
     publishing:
       email:
         recipients:
-          - your-email@example.com
+          - codemagic.yaml
